@@ -1,0 +1,12 @@
+{
+    "integration-tester@hdfc.com": [
+        {
+            "apiProducts": [
+                "test_03104Product"
+            ],
+            "callbackUrl": "",
+            "name": "test_03104App",
+            "scopes": []
+        }
+    ]
+}

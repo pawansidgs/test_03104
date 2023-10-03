@@ -1,0 +1,12 @@
+{
+	"domains": {
+		"dev": "https://${org}-${env}.apigee.net"
+	},
+	"test_03104": {
+		"basepath": "/v1/test_03104",
+		"product":"test_03104Product",
+		"app":"test_03104App",
+		"org":"${org}",
+		"env":"${env}"
+	}
+}
